@@ -1,0 +1,17 @@
+F:\GitHub Projects\cone-volume-program\Cone Volume Program\Cone Volume Program\bin\Debug\net6.0-windows\Cone Volume Program.exe
+F:\GitHub Projects\cone-volume-program\Cone Volume Program\Cone Volume Program\bin\Debug\net6.0-windows\Cone Volume Program.deps.json
+F:\GitHub Projects\cone-volume-program\Cone Volume Program\Cone Volume Program\bin\Debug\net6.0-windows\Cone Volume Program.runtimeconfig.json
+F:\GitHub Projects\cone-volume-program\Cone Volume Program\Cone Volume Program\bin\Debug\net6.0-windows\Cone Volume Program.dll
+F:\GitHub Projects\cone-volume-program\Cone Volume Program\Cone Volume Program\bin\Debug\net6.0-windows\Cone Volume Program.pdb
+F:\GitHub Projects\cone-volume-program\Cone Volume Program\Cone Volume Program\obj\Debug\net6.0-windows\Cone Volume Program.vbproj.AssemblyReference.cache
+F:\GitHub Projects\cone-volume-program\Cone Volume Program\Cone Volume Program\obj\Debug\net6.0-windows\Cone_Volume_Program.Form1.resources
+F:\GitHub Projects\cone-volume-program\Cone Volume Program\Cone Volume Program\obj\Debug\net6.0-windows\Cone Volume Program.vbproj.GenerateResource.cache
+F:\GitHub Projects\cone-volume-program\Cone Volume Program\Cone Volume Program\obj\Debug\net6.0-windows\Cone Volume Program.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub Projects\cone-volume-program\Cone Volume Program\Cone Volume Program\obj\Debug\net6.0-windows\Cone Volume Program.AssemblyInfoInputs.cache
+F:\GitHub Projects\cone-volume-program\Cone Volume Program\Cone Volume Program\obj\Debug\net6.0-windows\Cone Volume Program.AssemblyInfo.vb
+F:\GitHub Projects\cone-volume-program\Cone Volume Program\Cone Volume Program\obj\Debug\net6.0-windows\Cone Volume Program.vbproj.CoreCompileInputs.cache
+F:\GitHub Projects\cone-volume-program\Cone Volume Program\Cone Volume Program\obj\Debug\net6.0-windows\Cone Volume Program.dll
+F:\GitHub Projects\cone-volume-program\Cone Volume Program\Cone Volume Program\obj\Debug\net6.0-windows\refint\Cone Volume Program.dll
+F:\GitHub Projects\cone-volume-program\Cone Volume Program\Cone Volume Program\obj\Debug\net6.0-windows\Cone Volume Program.pdb
+F:\GitHub Projects\cone-volume-program\Cone Volume Program\Cone Volume Program\obj\Debug\net6.0-windows\Cone Volume Program.genruntimeconfig.cache
+F:\GitHub Projects\cone-volume-program\Cone Volume Program\Cone Volume Program\obj\Debug\net6.0-windows\ref\Cone Volume Program.dll
