@@ -30,7 +30,7 @@ Partial Class Form1
         txtHeight = New TextBox()
         txtVolume = New TextBox()
         btnCalculate = New Button()
-        Button1 = New Button()
+        btnClear = New Button()
         SuspendLayout()
         ' 
         ' Label1
@@ -108,22 +108,22 @@ Partial Class Form1
         btnCalculate.Text = "Calculate"
         btnCalculate.UseVisualStyleBackColor = True
         ' 
-        ' Button1
+        ' btnClear
         ' 
-        Button1.Font = New Font("Microsoft Sans Serif", 14F, FontStyle.Regular, GraphicsUnit.Point)
-        Button1.Location = New Point(325, 300)
-        Button1.Name = "Button1"
-        Button1.Size = New Size(75, 35)
-        Button1.TabIndex = 8
-        Button1.Text = "Clear"
-        Button1.UseVisualStyleBackColor = True
+        btnClear.Font = New Font("Microsoft Sans Serif", 14F, FontStyle.Regular, GraphicsUnit.Point)
+        btnClear.Location = New Point(325, 300)
+        btnClear.Name = "btnClear"
+        btnClear.Size = New Size(75, 35)
+        btnClear.TabIndex = 8
+        btnClear.Text = "Clear"
+        btnClear.UseVisualStyleBackColor = True
         ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(584, 361)
-        Controls.Add(Button1)
+        Controls.Add(btnClear)
         Controls.Add(btnCalculate)
         Controls.Add(txtVolume)
         Controls.Add(txtHeight)
@@ -146,5 +146,5 @@ Partial Class Form1
     Friend WithEvents txtHeight As TextBox
     Friend WithEvents txtVolume As TextBox
     Friend WithEvents btnCalculate As Button
-    Friend WithEvents Button1 As Button
+    Friend WithEvents btnClear As Button
 End Class
